@@ -8,7 +8,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Arizal Firdaus",
-    author_email="email@domain.com",
+    author_email="bangmulukkeren@gmail.com",
     url="https://github.com/ArizalMuluk/JavaLib",
     classifiers=[
         "Programming Language :: Python :: 3",
