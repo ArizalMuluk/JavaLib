@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="JavaLib",
-    version="0.1",
+    version="0.2",
     packages=find_packages(),
     description="JavaLib is a Python library that provides several functions and classes to manipulate strings and count the number of elements, using Java language terms.",
     long_description=open("README.md").read(),

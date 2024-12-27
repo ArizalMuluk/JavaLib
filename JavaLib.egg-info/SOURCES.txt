@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+JavaLib/JavaLib.py
+JavaLib/__init__.py
+JavaLib.egg-info/PKG-INFO
+JavaLib.egg-info/SOURCES.txt
+JavaLib.egg-info/dependency_links.txt
+JavaLib.egg-info/top_level.txt
